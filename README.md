@@ -1,2 +1,4 @@
-# web-335
-A repository for WEB335-346A Introduction to NoSQL
+# WEB 335 Introduction to NoSQL
+## Contributors
+* Professor Richard Krasso
+* Laura Kendl
