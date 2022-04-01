@@ -1,0 +1,21 @@
+{
+    "Publisher": {
+            "publisher_name": "George Allen & Unwin",
+            "publisher_code": "300",
+            "publisher_address": "PO Box 8500 St Leonards, NSW 1590",
+            "books": [
+                {
+                "book_isbn": "9780261103573",
+                "book_name": "The Fellowship of the Ring",
+                "book_price": "$15.08",
+                "authors": 
+                    {
+                    "author_first_name": "J.R.R.",
+                    "author_last_name": "Tolkien",
+                    "author_phone": "123-456-7890",
+                    "author_email": "tolkien@mordor.com"
+                    }
+                }
+            ]              
+    }
+}
