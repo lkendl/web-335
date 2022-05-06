@@ -11,9 +11,6 @@
 # [Ref C] Stackoverflow: https://stackoverflow.com/questions/65949325/how-do-you-fix-missing-module-docstringpylintmissing-module-docstring (How do you fix "Missing module docstringpylint(missing-module-docstring)")
 # ===========================================
 
-"""
-Provides some arithmetic functions
-"""
 # Create an add function and return the total.
 def add(num1, num2): # "Def" creates a function in python. [Ref A]
     """Add two numbers""" # This docstring fixes Pylint error C0116. [Ref C]
